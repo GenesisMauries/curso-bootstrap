@@ -13,3 +13,7 @@
 #section-example .container-fluid .row .color-two{
     background-color: #11165555;
 }
+#section-three .container .color-three{
+    background-color: #a70bf0ea;
+    height: 200px;
+}
