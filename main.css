@@ -1,0 +1,15 @@
+#section-one .container{
+    background-color: #565656;
+}
+#section-one .container .row .col-one{
+    background-color: #008800;
+}
+#section-two .container-fluid{
+    background-color: #1515;
+}
+#section-example .container-fluid .row .color-one{
+    background-color: #e9da1055;
+}
+#section-example .container-fluid .row .color-two{
+    background-color: #11165555;
+}
