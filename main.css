@@ -17,3 +17,29 @@
     background-color: #a70bf0ea;
     height: 200px;
 }
+#positions{
+    background-color: #22db22e3;
+    height:400px;
+    position: relative;
+}
+#positions .img-one{
+    position: absolute;
+    left: 20%;
+    top: 25%;
+    z-index: 2;
+}
+#positions .img-two{
+    position: absolute;
+    left: 25%;
+    top: 35%;
+    z-index: 2;
+}
+#positions .img-three{
+    position: absolute;
+    left: 20%;
+    top: 55%;
+    z-index: 2;
+}
+#positions .row .color-positions{
+    background-color: #1313999d;
+}

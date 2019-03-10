@@ -24,4 +24,7 @@ El punto indica clase y el mayor que indica que se introduce dentro mientras que
 * https://via.placeholder.com/150
 - Despues de la diagonal agregamos la medida que necesitamos
 
-
+## Position
+- El contenedor debe ser declaro position:relative
+- El elemento a colocar tendra position: absolute
+- z-index lo vulve tridimencional para agreagar profundidad (capas)
